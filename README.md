@@ -1,7 +1,7 @@
 👋
 
 
-<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/CSS3-%23000000?style=for-the-badge&logo=CSS3&logoColor=Blue"/></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/CSS3-#1572B6?style=for-the-badge&logo=CSS3&logoColor=Blue"/></a>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/HTML5-%23000000?style=for-the-badge&logo=HTML5&logoColor=Orange"/></a>
 <br>
 <a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=React&logoColor=White"/></a>
