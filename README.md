@@ -4,17 +4,12 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 </p>
 </div>
-
-
-
-<div>
   
 <h1>
   <Skill =set=>
   </h1>
 
-
-</div>
+<div style="display:flex; flex-direction:row; line-height: 5%;">
 
 <h2>
 <==============Frontend==============>
