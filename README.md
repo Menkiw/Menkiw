@@ -1,7 +1,9 @@
 👋
-#F37626
+<br>
 <Skill Set>
+<br>
 Programing Language
+<br>
 <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/CSS3-%23000000?style=for-the-badge&logo=CSS3&logoColor=%231572B6"/></a>
 <a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/HTML5-%23000000?style=for-the-badge&logo=HTML5&logoColor=%23E34F26"/></a>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23000000?style=for-the-badge&logo=JAVASCRIPT&logoColor=%233776AB"/></a>
