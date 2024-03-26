@@ -51,7 +51,7 @@
   --------Environment--------
   </h2>
 <a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/windows11-%23000000?style=for-the-badge&logo=windows11&logoColor=%230078D4"/></a>
-<a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/visualstudiocode-%23000000?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC"/></a>
+<a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/visualstudiocode-%235C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=black"/></a>
 
 </div>
 
