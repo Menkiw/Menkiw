@@ -40,6 +40,7 @@
 <br>
 
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-%23000000?style=for-the-badge&logo=Figma&logoColor=%23F24E1E"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=Notion&logoColor=%23000000"/></a>
 
 <br>
 
