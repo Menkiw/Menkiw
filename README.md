@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 My Device
 <a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/ASUS-%23000000?style=flat&logo=ASUS&logoColor=white"/></a>
-
+<a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/Republic of Gamers-%23FF0029?style=flat&logo=Republic of Gamers&logoColor=red"/></a>
