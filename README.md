@@ -30,8 +30,17 @@
 --------Server--------
 
 <br>
+
 <a href="https:/https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/Mysql-%23000000?style=for-the-badge&logo=Mysql&logoColor=%234479A1"/></a>
+
 <br>
+
+--------Etc--------
+
+<br>
+
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-%23000000?style=for-the-badge&logo=Figma&logoColor=%23F24E1E"/></a>
+
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Menkiw&show_icons=true&theme=radical)
