@@ -4,7 +4,7 @@
 <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/CSS3-%23000000?style=for-the-badge&logo=CSS3&logoColor=%231572B6"/></a>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/HTML5-%23000000?style=for-the-badge&logo=HTML5&logoColor=%23E34F26"/></a>
 <br>
-<a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=React&logoColor=White"/></a>
+<a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=React&logoColor=%2361DAFB"/></a>
 <br>
 <br>
 <br>
