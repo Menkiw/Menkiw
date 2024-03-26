@@ -26,3 +26,5 @@ My Device
 <a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/Republic of Gamers-%23FF0029?style=flat&logo=Republic of Gamers&logoColor=white"/></a>
 <br>
 <a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/AMD-%23ED1C24?style=flat&logo=AMD&logoColor=white"/></a> RYZEN 7 6000 Series
+<br>
+<a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-%2376B900?style=flat&logo=NVIDIA&logoColor=white"/></a> Geforce RTX 3070 Ti
