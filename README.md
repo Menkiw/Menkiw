@@ -50,7 +50,7 @@
 
 <br>
 
-<a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/windows11/notion-%23000000?style=for-the-badge&logo=windows11&logoColor=%23FFFFF"/></a>
+<a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/windows11/notion-%23000000?style=for-the-badge&logo=windows11&logoColor=%230078D4"/></a>
 
 <br>
 
