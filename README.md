@@ -20,7 +20,7 @@
   <h2>
 --------Library&FrameWork--------
   </h2>
-<a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=black"/></a>
+<a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=black"/></a
 <a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=Node.js&logoColor=black"/></a>
 <a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/></a>
 
