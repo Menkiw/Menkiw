@@ -24,7 +24,7 @@
 <div style="display:flex; flex-direction:row; line-height: 5%;">
   
   <h2>
-<======Backend======>
+<=====Backend=====>
   </h2>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=Node.js&logoColor=black"/></a>
@@ -54,7 +54,7 @@
 <div style="display:flex; flex-direction:row; line-height: 5%;">
   
   <h2>
-<=====Envrionment=====>
+<====Envrionment====>
   </h2>
 <a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/windows11-%230078D4?style=for-the-badge&logo=windows11&logoColor=white"/></a>
 <a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/visualstudiocode-%235C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=black"/></a>
