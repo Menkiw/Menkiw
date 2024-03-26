@@ -1,7 +1,7 @@
 👋
 
 <br>
-<div style="display:flex; flex-direction:row; line-height: 5%;">
+
 <Skill -Set->
 
 <br>
@@ -9,12 +9,12 @@
 --------Programing Language--------
 
 <br>
-
+<div style="display:flex; flex-direction:row; line-height: 5%;">
 <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/CSS3-%23000000?style=for-the-badge&logo=CSS3&logoColor=%231572B6"/></a>
 <a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/HTML5-%23000000?style=for-the-badge&logo=HTML5&logoColor=%23E34F26"/></a>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23000000?style=for-the-badge&logo=JAVASCRIPT&logoColor=%233776AB"/></a>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/Python-%23000000?style=for-the-badge&logo=PYTHON&logoColor=%23F7DF1E"/></a>
-
+</div>
 <br>
 
 --------Library&FrameWork--------
