@@ -40,8 +40,8 @@
   <h2>
     --------Etc--------
   </h2>
-<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-%23000000?style=for-the-badge&logo=Figma&logoColor=%23F24E1E"/></a>
-<a href="https://www.notion.com/" target="_blank"><img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=Notion&logoColor=%23FFFFFF"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/></a>
+<a href="https://www.notion.com/" target="_blank"><img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
 </div>
 
@@ -50,7 +50,7 @@
   <h2>
   --------Environment--------
   </h2>
-<a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/windows11-%23000000?style=for-the-badge&logo=windows11&logoColor=%230078D4"/></a>
+<a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/windows11-%230078D4?style=for-the-badge&logo=windows11&logoColor=white"/></a>
 <a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/visualstudiocode-%235C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=black"/></a>
 
 </div>
