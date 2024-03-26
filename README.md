@@ -1,7 +1,7 @@
 👋
 
 <br>
-
+<div style="display:flex; flex-direction:row;">
 <Skill -Set->
 
 <br>
@@ -43,7 +43,7 @@
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=Notion&logoColor=%23000000"/></a>
 
 <br>
-
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Menkiw&show_icons=true&theme=radical)
 
 <!--
