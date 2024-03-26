@@ -26,10 +26,11 @@
 <a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/jupyter-%23000000?style=for-the-badge&logo=Jupyter&logoColor=%23F37626"/></a>
 
 <br>
+
 --------Server--------
-<a href="https:/https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/Mysql-%23000000?style=for-the-badge&logo=Mysql&logoColor=%234479A1"/></a>
 
 <br>
+<a href="https:/https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/Mysql-%23000000?style=for-the-badge&logo=Mysql&logoColor=%234479A1"/></a>
 <br>
 <br>
 
