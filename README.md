@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=CSS3&logoColor=blue"/></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=blue"/></a>
 
 <!--
 **Menkiw/Menkiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
