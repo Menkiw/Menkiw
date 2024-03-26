@@ -1,7 +1,7 @@
 👋
 
 <br>
-<div style="display:flex; flex-direction:row; line-height:10px;">
+<div style="display:flex; flex-direction:row; line-height: 5%;">
 <Skill -Set->
 
 <br>
