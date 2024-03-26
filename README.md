@@ -44,7 +44,7 @@
 
 <br>
 </div>
-[![Menkiw's GitHub stats](https://github-readme-repocard.vercel.app/api?
+[![Menkiw's GitHub stats](https://github-readme-Stats.vercel.app/api?
 username=Menkiw&include_all_commits=true&show_icons=true&theme=shadow_blue)]
 
 <!--
