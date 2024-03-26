@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br>
 <a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/Republic of Gamers-%23FF0029?style=flat&logo=Republic of Gamers&logoColor=white"/></a>
 <br>
-<a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/AMD-%23ED1C24?style=flat&logo=AMD&logoColor=white"/></a> RYZEN 7 6800 H
+<a href="https://www.AMD.com" target="_blank"><img src="https://img.shields.io/badge/AMD-%23ED1C24?style=flat&logo=AMD&logoColor=white"/></a> RYZEN 7 6800 H
 <br>
-<a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-%2376B900?style=flat&logo=NVIDIA&logoColor=white"/></a> Geforce RTX 3070 Ti
+<a href="https://www.NVIDIA.com" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-%2376B900?style=flat&logo=NVIDIA&logoColor=white"/></a> Geforce RTX 3070 Ti
 <br>
