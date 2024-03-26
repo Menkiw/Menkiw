@@ -8,7 +8,7 @@
 
 <br>
 <a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=React&logoColor=%2361DAFB"/></a>
-<a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-%23000000?style=for-the-badge&logo=Kupyter&logoColor=%2361DAFB"/></a>
+<a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/jupyter-%23000000?style=for-the-badge&logo=Kupyter&logoColor=%2361DAFB"/></a>
 
 <br>
 <br>
