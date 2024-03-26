@@ -40,7 +40,7 @@
 <br>
 
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-%23000000?style=for-the-badge&logo=Figma&logoColor=%23F24E1E"/></a>
-<a href="https://www.notion.com/" target="_blank"><img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=Notion&logoColor=%23FFFFF"/></a>
+<a href="https://www.notion.com/" target="_blank"><img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=Notion&logoColor=%23FFFFFF"/></a>
 
 <br>
 
@@ -50,7 +50,7 @@
 
 <br>
 
-<a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/windows11/notion-%23000000?style=for-the-badge&logo=windows11&logoColor=%230078D4"/></a>
+<a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/windows 11/notion-%23000000?style=for-the-badge&logo=windows 11&logoColor=%230078D4"/></a>
 
 <br>
 
