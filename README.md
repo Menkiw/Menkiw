@@ -1,4 +1,4 @@
-### Hi there 👋
+👋
 
 
 <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=White"/></a>
