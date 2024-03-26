@@ -19,12 +19,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Device
+<Extra>
 <br>
-<a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/ASUS-%23000000?style=flat&logo=ASUS&logoColor=white"/></a>
+--My Device--
+<br>
+<a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/ASUS-%23000000?style=flat&logo=ASUS&logoColor=white"/></a> 2022 Rog strix G17 713RW-LL150
 <br>
 <a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/Republic of Gamers-%23FF0029?style=flat&logo=Republic of Gamers&logoColor=white"/></a>
 <br>
-<a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/AMD-%23ED1C24?style=flat&logo=AMD&logoColor=white"/></a> RYZEN 7 6000 Series
+<a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/AMD-%23ED1C24?style=flat&logo=AMD&logoColor=white"/></a> RYZEN 7 6800 H
 <br>
 <a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-%2376B900?style=flat&logo=NVIDIA&logoColor=white"/></a> Geforce RTX 3070 Ti
+<br>
