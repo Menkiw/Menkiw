@@ -88,11 +88,11 @@ Here are some ideas to get you started:
 <br>
 --My Device--
 <br>
-<a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/ASUS-%23000000?style=flat&logo=ASUS&logoColor=white"/></a> 2022 Rog strix G17 713RW-LL150
+<a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/ASUS-%23000000?style=for-the-badge&logo=ASUS&logoColor=white"/></a>
+  <a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/Republic of Gamers-%23FF0029?style=flat&logo=Republic of Gamers&logoColor=white"/></a>
+  <p>-2022-Rog strix G17 713RW-LL150</p>
 <br>
-<a href="https://www.asus.com" target="_blank"><img src="https://img.shields.io/badge/Republic of Gamers-%23FF0029?style=flat&logo=Republic of Gamers&logoColor=white"/></a>
+<a href="https://www.AMD.com" target="_blank"><img src="https://img.shields.io/badge/AMD-%23ED1C24?style=for-the-badge&logo=AMD&logoColor=white"/></a> RYZEN 7 6800 H
 <br>
-<a href="https://www.AMD.com" target="_blank"><img src="https://img.shields.io/badge/AMD-%23ED1C24?style=flat&logo=AMD&logoColor=white"/></a> RYZEN 7 6800 H
-<br>
-<a href="https://www.NVIDIA.com" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-%2376B900?style=flat&logo=NVIDIA&logoColor=white"/></a> Geforce RTX 3070 Ti
+<a href="https://www.NVIDIA.com" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-%2376B900?style=for-the-badge&logo=NVIDIA&logoColor=white"/></a> Geforce RTX 3070 Ti
 <br>
