@@ -14,7 +14,7 @@
 </div>
 
 <h2>
-  --------Frontend--------
+------------------------------------------------------------------------Frontend------------------------------------------------------------------------
 </h2>
 <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -26,7 +26,7 @@
 <div style="display:flex; flex-direction:row; line-height: 5%;">
   
   <h2>
---------Backend--------
+------------------------------------------------------------------------Backend------------------------------------------------------------------------
   </h2>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=Node.js&logoColor=black"/></a>
@@ -37,7 +37,7 @@
 <div style="display:flex; flex-direction:row; line-height: 5%;">
   
   <h2>
-    --------Server--------
+------------------------------------------------------------------------Server------------------------------------------------------------------------
   </h2>
 <a href="https:/https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
 
@@ -46,7 +46,7 @@
 <div style="display:flex; flex-direction:row; line-height: 5%;">
   
   <h2>
-    --------Etc--------
+------------------------------------------------------------------------Etc------------------------------------------------------------------------
   </h2>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/></a>
 <a href="https://www.notion.com/" target="_blank"><img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
@@ -56,13 +56,15 @@
 <div style="display:flex; flex-direction:row; line-height: 5%;">
   
   <h2>
-  --------Environment--------
+------------------------------------------------------------------------Environment------------------------------------------------------------------------
   </h2>
 <a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/windows11-%230078D4?style=for-the-badge&logo=windows11&logoColor=white"/></a>
 <a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/visualstudiocode-%235C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=black"/></a>
 
 </div>
 
+<br>
+<br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menkiw&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
