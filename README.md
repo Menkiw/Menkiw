@@ -44,7 +44,7 @@
 
 <br>
 </div>
-[![Menkiw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Menkiw&include_all_commits=true&theme=shadow_blue_icons=true&theme=)]
+![Menkiw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Menkiw&include_all_commits=true&theme=shadow_blue_icons=true&theme=)]
 
 <!--
 **Menkiw/Menkiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
