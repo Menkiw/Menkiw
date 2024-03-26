@@ -9,9 +9,9 @@
 <h2>
   --------Programing Language--------
 </h2>
-<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
-<a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/Python-%23000000?style=for-the-badge&logo=PYTHON&logoColor=%23F7DF1E"/></a>
 </div>
 
