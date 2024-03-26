@@ -31,7 +31,7 @@
   <h2>
     --------Server--------
   </h2>
-<a href="https:/https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/Mysql-%23000000?style=for-the-badge&logo=Mysql&logoColor=%234479A1"/></a>
+<a href="https:/https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
 
 </div>
 
