@@ -38,7 +38,7 @@
 <======Server======>
   </h2>
 <a href="https:/https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="https:/https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white"></a>
+<a href="https:/https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black"></a>
 
 </div>
 
