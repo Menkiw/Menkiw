@@ -14,8 +14,8 @@
 <h2>
 <=====Frontend=====>
 </h2>
-<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=black"/></a>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 
@@ -26,7 +26,7 @@
   <h2>
 <=====Backend=====>
   </h2>
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=Node.js&logoColor=black"/></a>
 <a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/></a>
 
